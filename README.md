@@ -1,4 +1,3 @@
-# Medical-insurance
 # Medical Insurance Claim using Blockchain
 
 ## Project Description
